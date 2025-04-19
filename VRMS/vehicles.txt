@@ -1,0 +1,7 @@
+001,Toyota,Supra,Car,false,0
+002,Ford,Mustang,Car,false,0
+003,Chevrolet,Silverado,Car,true,2
+004,BMW,X5,Car,false,0
+005,Yamaha,YZF-R1,Bike,false,0
+006,Dodge,RAM-1500,Truck,true,1
+111,aaa,2022,car,false,0
